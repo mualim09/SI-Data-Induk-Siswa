@@ -56,4 +56,5 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
-- xml (enabled by default - don't turn it off)
+- xml (enabled by default - don't turn it off)![IMG_20220304_021929_DRO](https://user-images.githubusercontent.com/56725319/157848698-668d3ace-183d-4f62-bb1c-3dd0f8e7f217.jpg)
+
